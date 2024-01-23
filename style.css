@@ -74,7 +74,7 @@ span {
 }
 
 .error {
-    animation: shake 0.1s linear 10;
+    animation: shake 0.1s linear 5;
     border: 1px solid red;
 }
 

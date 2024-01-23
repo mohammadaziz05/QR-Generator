@@ -19,7 +19,7 @@ function generateQrCode() {
         setTimeout(() => {
             inputData.classList.remove('error')
             errorMsg.textContent = ''
-        }, 1500);
+        }, 1800);
     }    
     
 }
